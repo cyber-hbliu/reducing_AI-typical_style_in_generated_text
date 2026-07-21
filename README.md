@@ -1,4 +1,5 @@
 # Writing Guideline
+https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing
 
 ## 1. Content discipline
 
